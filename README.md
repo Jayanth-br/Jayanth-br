@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Jayanth B R
-- 👀 I’m interested in Cricket, Video games
+- 👀 I’m interested in Cricket, Gadgets and Video games
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java open source projects
 - 📫 How to reach me jayanthbr2000@gmail.com 
